@@ -15,3 +15,8 @@ git checkout master
 git merge branche1
 git add readme.txt
 git commit -m "Saving final readme"
+git remote add origin https://github.com/Frosteurz/partielcorentinlizy.git
+git push -u origin master
+git add readme.txt 
+git commit -m "Saving final2 readme"
+
