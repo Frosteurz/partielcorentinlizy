@@ -19,4 +19,5 @@ git remote add origin https://github.com/Frosteurz/partielcorentinlizy.git
 git push -u origin master
 git add readme.txt 
 git commit -m "Saving final2 readme"
+git push -u origin master
 
