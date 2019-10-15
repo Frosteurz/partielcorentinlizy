@@ -20,4 +20,6 @@ git push -u origin master
 git add readme.txt 
 git commit -m "Saving final2 readme"
 git push -u origin master
+(Suppression du dossier)
+git commit -a -m "Suppression finale"
 
